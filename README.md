@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PEN ...
-- 👀 I’m interested in playing Astroneer, Guild Wars 2, SWTOR & Valheim.
-- 🌱 I’m currently learning AutoHotKey.
+- 👀 I’m playing the following on/off: ARK, Astroneer, Conan Exiles, GTA 5, Guild Wars 2, SWTOR & Valheim.
+- 🌱 I’m currently learning AutoHotKey and Tasker.
 - 💞️ I’m looking to collaborate on: n/a
-- 📫 How to reach me on Reddit!
+- 📫 How to reach me ~~on Reddit~~!
 
 <!---
 PENchanter/PENchanter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
